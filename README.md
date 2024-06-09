@@ -40,4 +40,4 @@ Esta es una plataforma de publicación de ofertas de trabajo donde las empresas 
 - **Backend**:
   - Firebase (Firestore, Authentication)
 
-[Proyecto desplegado en Vercel](https://inca-jobs.vercel.app/)
+[Proyecto desplegado en Vercel](https://incajobs.vercel.app/)
